@@ -181,7 +181,7 @@ VALOR: 1.2 pontos: 0.4 do seletor e 0.2 de cada letra
   color: white;
   background-color: var(--corPrincipal);
   padding: 15px;
-  margin-top: 40px;
+  margin-top: 50%;
   font-size: 1.5vw;
   border-radius: 1vw;
   font-weight: bold;
