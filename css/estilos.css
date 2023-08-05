@@ -133,8 +133,7 @@ b) cor de fundo com a variável --corPrincipal
 VALOR: 0.8 pontos: 0.4 do seletor e 0.2 de cada letra
 */
 
-
-.menu a:active {
+a.active {
   color: var(--corClara);
   background-color: var(--corEscura);
 }
@@ -260,6 +259,7 @@ VALOR: 2.0 pontos: 0.8 do seletor e 0.2 de cada letra
   border-radius: 1vw;
   width: 40vw;
   border: 1px solid var(--corEscura);
+  margin-bottom: 1vw;
 }
 
 .formcontato button {
